@@ -3,6 +3,10 @@
 Register user with id and store data with id and index id
 Project build with Solidity & reactJs
 
+-----------------------------------------
+create contract with ./DataStore.sol
+and change address TODO_LIST_ADDRESS  in /src/Components/Solidity/Config.js 
+
 
 # Getting Started with Create React App
 000
