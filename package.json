@@ -1,0 +1,75 @@
+{
+  "name": "my-app",
+  "homepage": "https://localhost.com/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.0",
+    "@material-ui/icons": "^4.11.2",
+    "@sentry/react": "^6.11.0",
+    "@sentry/tracing": "^6.11.0",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.21.1",
+    "basic-shamsi": "^1.0.4",
+    "bootstrap": "^4.5.3",
+    "coinmarketcap-cryptocurrency-icons": "^1.0.1",
+    "dompurify": "github:cure53/DOMPurify",
+    "font-awesome": "^4.7.0",
+    "jsdom": "^17.0.0",
+    "net": "^1.0.2",
+    "next": "^11.1.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-client-session": "0.0.7",
+    "react-cookie": "^4.0.3",
+    "react-cryptocoins": "^1.0.11",
+    "react-dom": "^17.0.1",
+    "react-loadingg": "^1.7.2",
+    "react-number-format": "^4.4.1",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-tradingview-widget": "^1.3.2",
+    "react-websocket": "^2.1.0",
+    "redux": "^4.1.0",
+    "socket.io-client": "^4.1.3",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.1.4",
+    "sweetalert2-react-content": "^4.1.1",
+    "universal-cookie": "^4.0.4",
+    "web-vitals": "^0.2.4",
+    "web3": "^1.5.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/icons-cryptocurrency": "^1.1.1",
+    "@iconify/react": "^1.1.3",
+    "babel-plugin-jsx-control-statements": "^4.1.0"
+  }
+}
